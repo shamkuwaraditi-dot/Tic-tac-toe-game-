@@ -21,7 +21,7 @@ This project demonstrates basic programming concepts such as arrays, loops, cond
 ## ▶️ How to Play
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe-cpp.git
+   git clone https://github.com/shamkuwaraditi-dot/tic-tac-toe-cpp.git
 g++ tic_tac_toe.cpp -o tic_tac_toe
 ./tic_tac_toe
 tic-tac-toe-cpp/
